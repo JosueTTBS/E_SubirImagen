@@ -1,6 +1,6 @@
 // table 50100 "MediaSetExample"
 // {
-//     DataClassification = OrganizationIdentifiableInformation;
+//     DataClassification = OrganizationIdentifiableInformation; 
 
 //     fields
 //     {

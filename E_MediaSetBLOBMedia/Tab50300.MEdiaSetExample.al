@@ -6,7 +6,7 @@ table 50300 "MediaSetExample"
     {
         field(1; Code; Code[20])
         {
-            DataClassification = OrganizationIdentifiableInformation;
+            DataClassification = ToBeClassified;
         }
 
         field(2; Media1; Media)
