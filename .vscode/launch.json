@@ -7,8 +7,8 @@
             "type": "al",
             "environmentType": "Sandbox",
             "environmentName": "sandbox",
-            // "startupObjectId": 50300, //Pagina de imagen
-            "startupObjectId": 50600,
+            "startupObjectId": 50300, //Pagina de imagen modificada
+            // "startupObjectId": 50200,
             "startupObjectType": "Page",
             "schemaUpdateMode": "Recreate",
             "breakOnError": "All",
