@@ -35,14 +35,14 @@ page 50300 "MediaSetExampleList"
                 }
             }
         }
-
-        // area(FactBoxes)
-        // {
-        //     part(MediaFactbox; MediaFactbox)
-        //     {
-        //         ApplicationArea = all;
-        //         SubPageLink = Code = field(Code);
-        //     }
-        // }
+        // E area de facbos son los que aparecen del lado derecho que se puede ocultar y mostar con un simbolo como de informacion 
+        area(FactBoxes)
+        {
+            part(MediaFactbox; MediaFactbox)
+            {
+                ApplicationArea = all;
+                SubPageLink = Code = field(Code);
+            }
+        }
     }
 }
